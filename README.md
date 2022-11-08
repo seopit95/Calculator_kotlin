@@ -1,12 +1,10 @@
 # Calculator_kotlin
 
-# 전자계산기
-
-## 개 요
+## Outline
 
 kotlin과 Android Studio를 활용한 전자계산기 Application
 
-## 개발환경
+## Development Environment 
 
 | 구 분 | 내 용 |
 | --- | --- |
